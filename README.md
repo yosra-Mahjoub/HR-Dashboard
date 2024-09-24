@@ -60,6 +60,6 @@ The summary view is divided into three sections: **Overview**, **Demographics**,
 ![HR  Details](https://github.com/user-attachments/assets/2d99fbdd-c44e-40ba-a091-38393f8200ff)
 
 
-Explore the different visualizations and filters by clicking [here]([path_to_tableau_public_dashboard](https://public.tableau.com/app/profile/yosra.mahjoub/viz/UserStory-HRDashboard/HRDash)).
+Explore the different visualizations and filters by clicking [here](https://public.tableau.com/app/profile/yosra.mahjoub/viz/UserStory-HRDashboard/HRDash).
 
 
