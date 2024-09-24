@@ -63,4 +63,3 @@ The summary view is divided into three sections: **Overview**, **Demographics**,
 Explore the different visualizations and filters by clicking [here]([path_to_tableau_public_dashboard](https://public.tableau.com/app/profile/yosra.mahjoub/viz/UserStory-HRDashboard/HRDash)).
 
 
-Once you’ve added the correct paths and URLs, it will display your screenshots and provide a link to your Tableau Public dashboard for live exploration!
